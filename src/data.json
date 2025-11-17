@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "label": "Atom",
+      "text": "Atoms form the basic structure of all biological molecules, including the six organic compounds that make up DNA. The arrangement and interaction of atoms create the building blocks that ultimately support biological complexity.",
+      "icon": "AtomIcon"
+    },
+    {
+      "id": 2,
+      "label": "Molecule",
+      "text": "Molecules such as nucleotides, amino acids, and lipids arise when atoms bond. These molecular structures determine gene expression, protein formation, and ultimately the functional processes that shape traits and behavior.",
+      "icon": "MoleculeIcon"
+    },
+    {
+      "id": 3,
+      "label": "DNA",
+      "text": "DNA is the core blueprint for development, encoding instructions for cellular structure and function. Although organisms share much of their DNA, expression varies across cell types. DNA also integrates environmental experiences through mechanisms like epigenetics.",
+      "icon": "DnaIcon"
+    },
+    {
+      "id": 4,
+      "label": "Cell",
+      "text": "Cells interpret DNA differently depending on type and context. Environmental signals can alter gene expression through DNA methylation, histone modification, and non-coding RNA. These epigenetic shifts influence development, stress responses, and later behavior.",
+      "icon": "CellIcon"
+    },
+    {
+      "id": 5,
+      "label": "Spleen",
+      "text": "The spleen shows how genetic variation supports environmental adaptation. Sea Nomad populations such as the Bajau evolved enlarged spleens enabling deeper and longer dives, likely through variants of genes like PDE10A that increase oxygen storage capacity.",
+      "icon": "SpleenIcon"
+    },
+    {
+      "id": 6,
+      "label": "Brain",
+      "text": "The brain is shaped by polygenic influences and environment-driven epigenetic changes. Stress, inflammation, and developmental conditions affect neural circuits, microglial activity, and mental health outcomes such as anxiety, depression, and cognitive reactivity.",
+      "icon": "BrainIcon"
+    },
+    {
+      "id": 7,
+      "label": "Person",
+      "text": "Human behavior emerges from complex interactions among thousands of genes and diverse life experiences. Heritability explains only part of personality variation; environmental conditions, stress, parenting, and development produce the majority of behavioral differences.",
+      "icon": "PersonIcon"
+    }
+  ]
+}
+
